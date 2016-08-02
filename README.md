@@ -20,7 +20,7 @@ Here demo when clicked login button, but also happens with side menu, and genera
 
 ## Results
 As reported in testing.
-*Just clicked the button once and released, no holding. Button click  can be noticed in the **ripple effect** for android, and **darker color** in ios.*
+Just clicked the button once and released, no holding. Button click  can be noticed in the **ripple effect** for android, and **darker color** in ios.
 For better demostration links of youtube screencast here:
 
 - [Android]: No problem, as seen when clicked login, changes view within a second.
