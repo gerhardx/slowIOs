@@ -23,8 +23,8 @@ As reported in testing.
 *Just clicked the button once and released, no holding. Button click  can be noticed in the **ripple effect** for android, and **darker color** in ios.*
 For better demostration links of youtube screencast here:
 
-[Android]: No problem, as seen when clicked login, changes view within a second.
-[IOS]: On Iphone 4s takes almost 4 seconds, on Iphone 6s almost 3.
+- [Android]: No problem, as seen when clicked login, changes view within a second.
+- [IOS]: On Iphone 4s takes almost 4 seconds, on Iphone 6s almost 3.
 
 [Android]: https://youtu.be/6wqFSKUyddA
 
