@@ -29,3 +29,10 @@ For better demostration links of youtube screencast here:
 [Android]: https://youtu.be/6wqFSKUyddA
 
 [IOS]: https://youtu.be/r7uqpYsAueE
+
+## UPDATE:
+
+I noticed an increment in views in recent weeks, so here's the update to this issue.
+
+- This issue was with **Ionic 2 beta.32**
+- With the latest estable (ionic 2.3.0) is no longer an issue
